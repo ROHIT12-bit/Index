@@ -14,9 +14,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration
-BOT_TOKEN = '7551180280:AAEeoeeWACa5sTOJtjhLsUtqZp7WSKU8ha4'
+BOT_TOKEN = '7591153782:AAHq-K_OZ2C7hMMYLag3zj8j02yWJNzPlqs'
 ADMIN_ID = '7845335174'
-CHAT_ID = '-1002291875883'
+CHAT_ID = '-1002827963898'
 BACKUP_FILE = 'anime_index_backup.json'
 PERMANENT_BACKUP = 'permanent_anime_backup.json'
 LAST_MESSAGE_FILE = 'last_processed_message.json'
